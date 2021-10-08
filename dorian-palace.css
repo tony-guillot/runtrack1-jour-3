@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+#photo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+
+body{
+    background-color: #cec3c8;
+}
+
+#h1a{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 30px;
+ }
+
+ #h1a{
+    font-family: 'Gemunu Libre', sans-serif;
+    color: darkblue;
+ }
+
+ #liste{
+    font-family: 'Gemunu Libre', sans-serif;
+    color:darkblue;
+    font-size: 30px;
+ }
+
+ #liste2{
+    font-family: 'Gemunu Libre', sans-serif;
+    color:darkblue;
+    font-size: 30px;
+ }
+
+ #experience{
+    font-family: 'Gemunu Libre', sans-serif;
+    color:darkblue;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+
+ }
+ 
+ #passion{
+    font-family: 'Gemunu Libre', sans-serif;
+    color:darkblue;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+ }
+
+ #contact{
+     display: flex;
+     justify-content: space-between;
+ }

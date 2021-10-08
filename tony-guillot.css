@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body{
+    background-color: #F7F6CF;
+    
+}
+a:link 
+{ 
+ text-decoration:none; 
+}
+P{
+    font-size: 45px;
+    font-style: italic;
+    color: #B67332;
+    font-family: 'Noto Sans Mono', monospace;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.image{
+    display:flex;
+    justify-content: center;
+}
+
+.competence{
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.text{
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+
+
+}
+
+.truc{
+    color: rosybrown;
+
+}
+
+#truc {
+    font-size: 32px;
+}

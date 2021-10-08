@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    list-style: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+
+html{
+    background-color: #efece3c4;
+}
+
+#h1a{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    background-color: #F5F5F5;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bolder;
+    font-size: 75px;
+}
+
+.Image{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%; margin-bottom: 2%;
+}
+
+#presentation{
+    display: flex;
+    justify-content: center;
+}
+
+#equipe{
+    color: red;
+}
+
+.article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+    font-size: 25px;
+}
+
+#Adress{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom:5%;
+    background-color: #F5F5F5;
+    font-size: 18px;
+}
+
+.Urlpersos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 20px;
+    padding: 3px;
+}
+
+hr{
+    height: 10%;
+    margin-bottom:3%;
+}

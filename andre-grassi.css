@@ -1,0 +1,27 @@
+html{
+    background-color: burlywood;
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.photo{
+    display: flex;justify-content: center;
+}
+.h1a{
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;justify-content: center;
+}
+
+.passion{
+    color: brown;
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;justify-content: center;
+}
+
+#listyle{
+    display: flex;justify-content: space-around;
+}

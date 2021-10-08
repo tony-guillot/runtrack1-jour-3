@@ -1,0 +1,30 @@
+html{
+    background-color: #EBACA2;
+    font-style: oblique;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photo{
+    display: flex;justify-content:space-evenly;
+    padding: 1%;
+    margin: 5%;
+}
+.h1a{
+    color: #335F8A;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;justify-content: space-evenly;
+}
+
+.passion{
+    color: #335F8A;
+    font-style: oblique;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;justify-content: space-evenly;
+}
+
+#listyle{
+    display: flex;justify-content: space-around;
+}
